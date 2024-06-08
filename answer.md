@@ -5,18 +5,22 @@
 1. **What role does Pydantic play in FastAPI, and how does it enhance data validation and settings management?**
    - Provide examples from the project where Pydantic is used.
 
-   [Answer to Question 1](01_FastAPI_and_Pydantic.md)
+   [Answer to Question 1](homework02_answers/01_FastAPI_and_Pydantic.md)
 
 2. **Outline the complete process of handling a user login request in your FastAPI application. Provide a step-by-step explanation with code examples from the project.**
 
-   [Answer to Question 2](02_FastAPI_and_Pydantic.md)
+   [Answer to Question 2](homework02_answers/02_FastAPI_and_Pydantic.md)
 
 3. **Explain the service repository pattern and how it is applied in your project. Provide an example of how routes are managed and linked to services.**
+
+   [Answer to Question 3](homework02_answers/03_FastAPI_and_Pydantic.md)
 
 ## Database Management with Alembic and SQLAlchemy
 
 4. **How does Alembic manage database migrations, and why is this important for maintaining database schemas?**
    - Illustrate with an example of a migration script from the project.
+
+   [Answer to Question 4](homework02_answers/04_Database_Management_with_Alembic_and_SQLAlchemy.md)
 
 ## Pytest
 
