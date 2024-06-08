@@ -9,9 +9,8 @@
 
 <br><u>Code examples from the project:</u>
 
-    app/routers/user_routes.py
-
-<br>
+[../app/routers/user_routes.py](../app/routers/user_routes.py)
+<p>
 
     @router.post("/login/",
              response_model=TokenResponse, 
