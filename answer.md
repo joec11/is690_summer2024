@@ -5,7 +5,11 @@
 1. **What role does Pydantic play in FastAPI, and how does it enhance data validation and settings management?**
    - Provide examples from the project where Pydantic is used.
 
+   [Answer to Question 1](01_FastAPI_and_Pydantic.md)
+
 2. **Outline the complete process of handling a user login request in your FastAPI application. Provide a step-by-step explanation with code examples from the project.**
+
+   [Answer to Question 2](02_FastAPI_and_Pydantic.md)
 
 3. **Explain the service repository pattern and how it is applied in your project. Provide an example of how routes are managed and linked to services.**
 
