@@ -26,6 +26,8 @@
 
 5. **Why is Pytest critical for the development of the API?**
 
+   [Answer to Question 5](homework02_answers/05_Pytest.md)
+
 ## JWT and User Authentication
 
 6. **Explain the functioning of JWT (JSON Web Tokens) in user authentication. How are JWTs generated, encoded, and used within the project?**
