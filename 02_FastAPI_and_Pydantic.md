@@ -3,9 +3,9 @@
 2. **Outline the complete process of handling a user login request in your FastAPI application. Provide a step-by-step explanation with code examples from the project.**
 <p>
 
-![User Login](user_login.png)
+![User Login](screenshots/02/user_login.png)
 
-![User Login - Successful Response (200)](user_login_successful_response_200.png)
+![User Login - Successful Response (200)](screenshots/02/user_login_successful_response_200.png)
 
 <br><u>Code examples from the project:</u>
 
