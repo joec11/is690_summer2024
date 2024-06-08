@@ -4,10 +4,9 @@
    - Provide examples from the project where Pydantic is used.
 <p>
 
-        The role that Pydantic plays in FastAPI is that it serves as the primary tool for data validation and settings management.
-<br>
+The role that Pydantic plays in FastAPI is that it serves as the primary tool for data validation and settings management.
 
-        For Data Validation, Pydantic allows for defining the structure of data using Python classes with attributes that represent the fields of the data model. Using type annotations with these attributes lets Pydantic automatically validate incoming data against the specified types. This helps prevent errors and improves reliability since the data that is being received by the FastAPI application must match the expected schema.
+For Data Validation, Pydantic allows for defining the structure of data using Python classes with attributes that represent the fields of the data model. Using type annotations with these attributes lets Pydantic automatically validate incoming data against the specified types. This helps prevent errors and improves reliability since the data that is being received by the FastAPI application must match the expected schema.
 <p>
 
 <u>Examples from the project can be found at:</u>
@@ -23,8 +22,9 @@
 
 [../tests/test_schemas/test_event_schema.py](../tests/test_schemas/test_event_schema.py)<br>
 [../tests/test_schemas/test_user_schemas.py](../tests/test_schemas/test_user_schemas.py)
+<p>
 
-        For Settings Management, Pydantic models can be used to represent the application's settings. This allows for easily loading configuration values from many sources such as command-line arguments, configuration files, or environment variables. To reduce the risk of configuration errors, the loaded settings must follow the expected structure and types which is a validation capability of Pydantic.
+For Settings Management, Pydantic models can be used to represent the application's settings. This allows for easily loading configuration values from many sources such as command-line arguments, configuration files, or environment variables. To reduce the risk of configuration errors, the loaded settings must follow the expected structure and types which is a validation capability of Pydantic.
 <p>
 
 <u>Examples from the project can be found at:</u>
