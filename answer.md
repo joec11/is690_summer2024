@@ -34,9 +34,13 @@
    - [Read this article and link to the code in the user management.](https://supertokens.com/blog/what-is-jwt)
    - Include a code snippet showing how JWTs are implemented in the project.
 
+   [Answer to Question 6](homework02_answers/06_JWT_and_User_Authentication.md)
+
 7. **Decode the following JWT and explain its contents:**
    - Token: `eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJqb2huLmRvZUBleGFtcGxlLmNvbSIsInJvbGUiOiJBRE1JTiIsInVzZXJfaWQiOiJjZGY4M2QzZi0zNzQ5LTRjZGQtOTRlYS1hNTVjZmMwNDhkMGYiLCJleHAiOjE3MTc2MTY4MjAuMjIwNzA5fQ.ANS8PgUiwPCmOvnZLYTCy_5WzLyhCDOx8aF4xu-Kaz8`
    - Use [jwt.io](https://jwt.io/) to decode and explain the contents.
+
+   [Answer to Question 7](homework02_answers/07_JWT_and_User_Authentication.md)
 
 8. **Describe the user registration logic in your project. Provide a pseudo-code workflow from the registration request to storing the user in the database.**
 
