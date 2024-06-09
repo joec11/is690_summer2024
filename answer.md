@@ -54,13 +54,19 @@
 
 10. **How do you ensure the security of user passwords in your project? Discuss the hashing algorithm used and any additional security measures implemented.**
 
+      [Answer to Question 10](homework02_answers/10_Security_Practices.md)
+
 11. **Explain the difference between hashing and encoding. Provide examples from your project where each is used:**
     - **Hashing:** Example and explanation with code
     - **Encoding:** Example and explanation with code
+   
+    [Answer to Question 11](homework02_answers/11_Security_Practices.md)
 
 ## Project Management with Docker and CI/CD
 
 12. **Discuss the advantages of using Docker Compose for running your project. How does it help in maintaining a consistent development and deployment environment?**
+
+      [Answer to Question 12](homework02_answers/12_Project_Management_with_Docker_and_CI_CD.md)
 
 13. **Describe the role of GitHub Actions in your project's CI/CD pipeline. How do you automate testing and deployment using GitHub Actions?**
 
@@ -85,3 +91,5 @@
 20. **How does FastAPI use Pydantic schemas to generate Swagger documentation? Provide an example from your project where a Pydantic schema is used and show the corresponding Swagger documentation.**
 
 These questions ensure a comprehensive assessment of the students' understanding of the topics related to your project setup, focusing on practical implementations and theoretical concepts.
+
+<br>[Back to readme.md](readme.md)
