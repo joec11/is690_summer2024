@@ -8,12 +8,12 @@ The service repository pattern is a way to organize and separate concerns in an 
 
 <br>[../app/routers/user_routes.py](../app/routers/user_routes.py)
 
-![user_routes_UserService.png](../screenshots/03/user_routes_UserService.png)
+![user_routes_UserService.png](../screenshots/homework02/03/user_routes_UserService.png)
 <p>
 
 <br>[../app/services/user_service.py](../app/services/user_service.py)
 
-![user_service_get_by_id.png](../screenshots/03/user_service_get_by_id.png)
+![user_service_get_by_id.png](../screenshots/homework02/03/user_service_get_by_id.png)
 <p>
 
 <br>[Back to answer.md](../answer.md)
