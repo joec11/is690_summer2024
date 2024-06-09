@@ -10,14 +10,14 @@ Enter the new user_id (id) and the token (verification_token) and click the "Exe
 
 <br>Pseudo-code workflow from sending a verification email to activating the user's account.
 
-Register User:
+Verify Email:
 
 [../app/routers/user_routes.py](../app/routers/user_routes.py)
 
 ![user_routes_verify_email.png](../screenshots/homework02/09/user_routes_verify_email.png)
 <p>
 
-<br>Add New User to Database:
+<br>Update User Email Verified Status in Database:
 
 [../app/services/user_service.py](../app/services/user_service.py)
 
