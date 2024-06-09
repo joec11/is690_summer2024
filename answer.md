@@ -44,7 +44,11 @@
 
 8. **Describe the user registration logic in your project. Provide a pseudo-code workflow from the registration request to storing the user in the database.**
 
+   [Answer to Question 8](homework02_answers/08_JWT_and_User_Authentication.md)
+
 9. **Detail the steps involved in the user email verification process. Provide a pseudo-code workflow from sending a verification email to activating the user's account.**
+
+   [Answer to Question 9](homework02_answers/09_JWT_and_User_Authentication.md)
 
 ## Security Practices
 
