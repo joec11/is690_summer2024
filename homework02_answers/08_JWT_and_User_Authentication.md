@@ -5,8 +5,7 @@
 
 The new user registers by going to 'POST/register/Register' under "Login and Registration".<br>
 Click the "Try it out" button in the top right hand corner.<br>
-Enter the new user information and click the "Execute" button below.<br>
-Go to Mailtrap and click the 'Verify Email' link in the "Verify Your Account" email.
+Enter the new user information and click the "Execute" button below.
 <p>
 
 <br>Pseudo-code workflow from the registration request to storing the user in the database.
