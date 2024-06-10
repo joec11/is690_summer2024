@@ -70,15 +70,23 @@
 
 13. **Describe the role of GitHub Actions in your project's CI/CD pipeline. How do you automate testing and deployment using GitHub Actions?**
 
+      [Answer to Question 13](homework02_answers/13_Project_Management_with_Docker_and_CI_CD.md)
+
 ## API Design and Implementation
 
 14. **What are REST APIs, and how do they function in your project? Provide an example of a REST endpoint from your user management system.**
 
+      [Answer to Question 14](homework02_answers/14_API_Design_and_Implementation.md)
+
 15. **What is HATEOAS (Hypermedia as the Engine of Application State)? Provide an example of its implementation in your project's API responses, along with a screenshot.**
+
+      [Answer to Question 15](homework02_answers/15_API_Design_and_Implementation.md)
 
 ## Role-Based Access Control (RBAC)
 
 16. **What is Role-Based Access Control (RBAC) and how is it implemented in your project?**
+
+      [Answer to Question 16](homework02_answers/16_Role_Based_Access_Control_RBAC.md)
 
 17. **Explain the different user roles defined in your project (ANONYMOUS, AUTHENTICATED, MANAGER, ADMIN) and their permissions.**
 
