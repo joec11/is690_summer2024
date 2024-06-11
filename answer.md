@@ -90,13 +90,21 @@
 
 17. **Explain the different user roles defined in your project (ANONYMOUS, AUTHENTICATED, MANAGER, ADMIN) and their permissions.**
 
+      [Answer to Question 17](homework02_answers/17_Role_Based_Access_Control_RBAC.md)
+
 18. **Provide a code example showing how RBAC is enforced in one of your FastAPI endpoints.**
+
+      [Answer to Question 18](homework02_answers/18_Role_Based_Access_Control_RBAC.md)
 
 ## Route Parameters and Pydantic Schemas
 
 19. **Explain how route parameters are used in FastAPI. Provide an example of a route that takes a parameter and demonstrate how it is used within the endpoint.**
 
+      [Answer to Question 19](homework02_answers/19_Route_Parameters_and_Pydantic_Schemas.md)
+
 20. **How does FastAPI use Pydantic schemas to generate Swagger documentation? Provide an example from your project where a Pydantic schema is used and show the corresponding Swagger documentation.**
+
+      [Answer to Question 20](homework02_answers/20_Route_Parameters_and_Pydantic_Schemas.md)
 
 These questions ensure a comprehensive assessment of the students' understanding of the topics related to your project setup, focusing on practical implementations and theoretical concepts.
 
